@@ -51,7 +51,7 @@ body {
   font-family: inherit;
   padding-left: 62px;
   height: 70px;
-  margin: 20px 0;
+  margin-top: 20px;
   font-size: 16px;
   font-weight: 400;
   line-height: 100%;
@@ -84,6 +84,7 @@ body {
   font-family: inherit;
   border-radius: 4px;
   font-weight: 400;
+  margin-top: 20px;
   font-size: 14px;
   letter-spacing: 0;
   height: 42px;
